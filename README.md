@@ -1,2 +1,2 @@
 # IRGAN-pytorch
-The reproduced codes of IRGAN by pytorch
+The pytorch implementation of IRGAN
