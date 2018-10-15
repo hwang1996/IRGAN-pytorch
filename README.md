@@ -1,2 +1,2 @@
 # IRGAN-pytorch
-Reproduce the codes of IRGAN by pytorch
+The reproduced codes of IRGAN by pytorch
